@@ -1,1 +1,1 @@
-# life-in-the-wild
+# Life-in-the-wild
